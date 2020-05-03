@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[link do repozytorium projektu](https://github.com/flowerasny/EnjoyIT)
+[link do ]
 
 ## Opis aplikacji
 
@@ -18,6 +20,6 @@ Aplikacja EnjoyIT służy do zarządzania projektami studentów. Każda osoba ma
 *   Możliwość zgłaszania pomysłów na konkretne produkty i znalezienia wykonawcy tego produktu (np. informatycznego), który będzie mógł go wykonać w ramach zajęć,
 *   Możliwość głosowania za lub przeciw danemu projektowi, tworząc jednocześnie listę priorytetów.
 
-### Small image
+### Screeny prezentujące działanie aplikacji
 
 ![screen1](./assets/images/test.png)
