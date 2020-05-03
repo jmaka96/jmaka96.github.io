@@ -28,3 +28,5 @@ Aplikacja **EnjoyIT** służy do zarządzania projektami studentów. Każda osob
 ![screen2](./assets/images/screen2.png)
 
 ![screen3](./assets/images/screen3.png)
+
+![screen4](./assets/images/screen4.jpg)  ![screen5](./assets/images/screen5.jpg)
