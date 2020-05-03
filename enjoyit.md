@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-[link do repozytorium projektu](https://github.com/flowerasny/EnjoyIT)
-[link do ]
+[Repozytorium projektu](https://github.com/flowerasny/EnjoyIT)
+[]
 
 ## Opis aplikacji
 
-Aplikacja EnjoyIT służy do zarządzania projektami studentów. Każda osoba ma możliwość dodawania nowych problemów do wykonania, natomiast inne osoby mogą przyczyniać się do tworzenia danego projektu poprzez dodawanie linków do repozytoriów i aktywnego wnoszenia wkładu w utworzenie gotowego rozwiązania. Aplikacja stworzona przez M. Owczarski, J. Mąka, J. Kwiatek
+Aplikacja **EnjoyIT** służy do zarządzania projektami studentów. Każda osoba ma możliwość dodawania nowych problemów do wykonania, natomiast inne osoby mogą przyczyniać się do tworzenia danego projektu poprzez dodawanie linków do repozytoriów i aktywnego wnoszenia wkładu w utworzenie gotowego rozwiązania. Aplikacja stworzona przez M. Owczarski, J. Mąka, J. Kwiatek
 
 ### Cele aplikacji
 
@@ -22,4 +22,8 @@ Aplikacja EnjoyIT służy do zarządzania projektami studentów. Każda osoba ma
 
 ### Screeny prezentujące działanie aplikacji
 
-![screen1](./assets/images/test.png)
+![screen1](./assets/images/screen1.png)
+
+![screen2](./assets/images/screen2.png)
+
+![screen3](./assets/images/screen3.png)
