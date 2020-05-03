@@ -2,122 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Opis aplikacji
 
-[Link to another page](./another-page.html).
+Aplikacja EnjoyIT służy do zarządzania projektami studentów. Każda osoba ma możliwość dodawania nowych problemów do wykonania, natomiast inne osoby mogą przyczyniać się do tworzenia danego projektu poprzez dodawanie linków do repozytoriów i aktywnego wnoszenia wkładu w utworzenie gotowego rozwiązania. Aplikacja stworzona przez M. Owczarski, J. Mąka, J. Kwiatek
 
-There should be whitespace between paragraphs.
+### Cele aplikacji
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+*   Nadanie użyteczności projektom realizowanym podczas studiów,
+*   Umożliwienie prowadzenia projektów międzywydziałowych.
 
-# Header 1
+### Funkcjonalności aplikacji
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+*   Udostępnienie efektu wykonywanego przez studenta projektu dla innych studentów,
+*   Możliwość zgłaszania zapotrzebowanie na rozwiązanie danego problemu,
+*   Możliwość zgłaszania pomysłów na konkretne produkty i znalezienia wykonawcy tego produktu (np. informatycznego), który będzie mógł go wykonać w ramach zajęć,
+*   Możliwość głosowania za lub przeciw danemu projektowi, tworząc jednocześnie listę priorytetów.
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+![screen1](./assets/images/test.png)
