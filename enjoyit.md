@@ -2,7 +2,8 @@
 layout: default
 ---
 [Repozytorium projektu](https://github.com/flowerasny/EnjoyIT)
-[]
+
+[Repozytorium witryny](https://github.com/jmaka96/jmaka96.github.io)
 
 ## Opis aplikacji
 
